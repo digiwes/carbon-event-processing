@@ -95,7 +95,6 @@
                             <!--!javax.xml.namespace,-->
                             org.wso2.carbon.event.processor.core.*,
                             javax.xml.namespace; version=0.0.0,
-                            org.wso2.carbon.databridge.commons;resolution:=optional;version="[5.0,6)",
                             *;resolution:=optional
                         </Import-Package>
                         <DynamicImport-Package>*</DynamicImport-Package>
